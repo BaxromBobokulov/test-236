@@ -1,1 +1,4 @@
-print("Salom Dunyo")
+# print("Salom Dunyo")
+
+
+# 2 - masala
